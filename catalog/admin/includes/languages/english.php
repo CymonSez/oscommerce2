@@ -70,6 +70,7 @@ define('BOX_MODULES_ORDER_TOTAL', 'Order Total');
 define('BOX_MODULES_ACTION_RECORDER', 'Action Recorder');
 define('BOX_MODULES_HEADER_TAGS', 'Header Tags');
 define('BOX_MODULES_SOCIAL_BOOKMARKS', 'Social Bookmarks');
+define('BOX_MODULES_ADMIN_DASHBOARD', 'Admin Dashboard');
 
 // categories box text in includes/boxes/catalog.php
 define('BOX_HEADING_CATALOG', 'Catalog');
@@ -111,6 +112,7 @@ define('BOX_TOOLS_MAIL', 'Send Email');
 define('BOX_TOOLS_NEWSLETTER_MANAGER', 'Newsletter Manager');
 define('BOX_TOOLS_SEC_DIR_PERMISSIONS', 'Security Directory Permissions');
 define('BOX_TOOLS_SERVER_INFO', 'Server Info');
+define('BOX_TOOLS_VERSION_CHECK', 'Version Checker');
 define('BOX_TOOLS_WHOS_ONLINE', 'Who\'s Online');
 
 // localizaion box text in includes/boxes/localization.php
